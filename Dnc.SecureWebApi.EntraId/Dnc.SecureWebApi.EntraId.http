@@ -1,0 +1,6 @@
+@Dnc.SecureWebApi.EntraId_HostAddress = http://localhost:5084
+
+GET {{Dnc.SecureWebApi.EntraId_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
